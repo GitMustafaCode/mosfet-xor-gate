@@ -16,7 +16,7 @@ Design, build, and test a functional XOR logic gate entirely using MOSFET transi
 
 The XOR gate was designed using 12 transistors from two **MC14007UB** ICs, following standard CMOS design practices. The schematic includes the PMOS and NMOS transistors arranged to realize the XOR logic truth table.
 
-![image](https://github.com/user-attachments/assets/993c2a1a-fdf2-496a-8d60-ac5e09610eb8)
+![image](https://github.com/GitMustafaCode/mosfet-xor-gate/blob/main/Schematic.png)
 
 The transistors are labeled clearly, with pull-up and pull-down networks formed to handle each logic input combination correctly.
 
