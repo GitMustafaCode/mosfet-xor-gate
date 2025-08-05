@@ -2,7 +2,7 @@
 
 This project demonstrates the design, construction, and testing of a 2-input XOR logic gate using discrete MOSFET transistors. The XOR gate was built using transistor-level design methodology.
 
-For detailed calculations on design decisions please refer to this document: [Project Document](project_doc.pdf)
+For detailed calculations on design decisions please refer to this document: [Project Document](https://github.com/GitMustafaCode/mosfet-xor-gate/blob/main/project_doc.pdf)
 
 ---
 
