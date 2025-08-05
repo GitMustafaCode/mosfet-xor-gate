@@ -58,7 +58,7 @@ To evaluate output voltage levels:
 
 ## 📁 Files Included
 
-- `draf1.asc`: XOR circuit schematic
+- `XOR.asc`: XOR circuit schematic
 - `project_doc.pdf`: Detailed Explanation
 
 ---
